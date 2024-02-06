@@ -1,0 +1,37 @@
+
+@model IEnumerable<momentMVC.Models.TimeTable>
+@{
+    ViewData["Title"] = "Startsidan";
+    
+}
+<div class="indexmain">
+<h1>Start</h1>
+<p class="indexp"> Välkommen till Rödinges bussar. Bussarna i staden som tar dig från punkt A till punkt B.</p>
+<div class="viewTest">
+    <a href="/ViewBagTest">ViewBagtest</a>
+</div>
+
+<div class="timetable">
+    <h3>Tidtabell</h3>
+   
+    <article>
+        <table>
+            <thead>
+            <tr>
+                <th>Bussnummer</th>
+                <th>Destination</th>
+                <th>Tid</th>
+            </tr>
+            </thead>
+            <tbody>
+        @foreach(var timetable in Model){
+          <tr><td> @timetable.Time </td> 
+           <td> @timetable.Destination</td> 
+            <td>@timetable.BusNumber </td> </tr>
+        }
+        </tbody>
+        </table>
+        </article>
+</div>
+</div>
+

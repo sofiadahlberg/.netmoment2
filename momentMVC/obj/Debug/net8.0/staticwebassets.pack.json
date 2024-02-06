@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sofia Dahlberg\\OneDrive\\Dokument\\Webbutvecklare\\.net core\\moment2 MVC\\.netmoment2\\momentMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Sofia Dahlberg\\OneDrive\\Dokument\\Webbutvecklare\\.net core\\moment2 MVC\\.netmoment2\\momentMVC\\wwwroot\\images\\buschairs.jpg",
+      "PackagePath": "staticwebassets\\images\\buschairs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sofia Dahlberg\\OneDrive\\Dokument\\Webbutvecklare\\.net core\\moment2 MVC\\.netmoment2\\momentMVC\\wwwroot\\images\\emdrup.jpg",
+      "PackagePath": "staticwebassets\\images\\emdrup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sofia Dahlberg\\OneDrive\\Dokument\\Webbutvecklare\\.net core\\moment2 MVC\\.netmoment2\\momentMVC\\wwwroot\\images\\long.jpg",
+      "PackagePath": "staticwebassets\\images\\long.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sofia Dahlberg\\OneDrive\\Dokument\\Webbutvecklare\\.net core\\moment2 MVC\\.netmoment2\\momentMVC\\wwwroot\\images\\station.jpg",
+      "PackagePath": "staticwebassets\\images\\station.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Sofia Dahlberg\\OneDrive\\Dokument\\Webbutvecklare\\.net core\\moment2 MVC\\.netmoment2\\momentMVC\\wwwroot\\images\\yellowbus.jpg",
+      "PackagePath": "staticwebassets\\images\\yellowbus.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.momentMVC.props",
+      "PackagePath": "build\\momentMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.momentMVC.props",
+      "PackagePath": "buildMultiTargeting\\momentMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.momentMVC.props",
+      "PackagePath": "buildTransitive\\momentMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.momentMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

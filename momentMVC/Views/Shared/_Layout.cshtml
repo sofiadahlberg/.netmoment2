@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <title>@ViewData["Title"]</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] MVC</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+
+</head>
+
+<body>
+    <header>
+        <div class="imgheader">
+        <img src="/images/yellowbus.jpg"  alt="Gul minibuss" />
+        </div>
+        <nav class="navbar">
+                <ul class="ulmenu">
+                    <li class="nav-item">
+                        <a asp-controller="Start" asp-action="Index" class="navlink" >Start
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Start" asp-action="About" class="navlink" >Om oss
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="BusInfo" asp-action="BusInformation" class="navlink " >
+                            Våra bussar
+                        </a>
+                    </li>
+                </ul>
+
+        </nav>
+    </header>
+</body>
+<main>
+    @RenderBody()
+</main>
+</html>

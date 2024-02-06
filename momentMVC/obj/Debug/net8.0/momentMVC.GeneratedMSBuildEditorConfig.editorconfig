@@ -1,0 +1,55 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = momentMVC
+build_property.RootNamespace = momentMVC
+build_property.ProjectDir = C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\.net core\moment2 MVC\.netmoment2\momentMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Sofia Dahlberg\OneDrive\Dokument\Webbutvecklare\.net core\moment2 MVC\.netmoment2\momentMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Sofia Dahlberg/OneDrive/Dokument/Webbutvecklare/.net core/moment2 MVC/.netmoment2/momentMVC/Views/BusInfo/BusInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzSW5mb1xCdXNJbmZvcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sofia Dahlberg/OneDrive/Dokument/Webbutvecklare/.net core/moment2 MVC/.netmoment2/momentMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sofia Dahlberg/OneDrive/Dokument/Webbutvecklare/.net core/moment2 MVC/.netmoment2/momentMVC/Views/Start/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhcnRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sofia Dahlberg/OneDrive/Dokument/Webbutvecklare/.net core/moment2 MVC/.netmoment2/momentMVC/Views/Start/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhcnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sofia Dahlberg/OneDrive/Dokument/Webbutvecklare/.net core/moment2 MVC/.netmoment2/momentMVC/Views/Start/ViewBagTest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhcnRcVmlld0JhZ1Rlc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sofia Dahlberg/OneDrive/Dokument/Webbutvecklare/.net core/moment2 MVC/.netmoment2/momentMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sofia Dahlberg/OneDrive/Dokument/Webbutvecklare/.net core/moment2 MVC/.netmoment2/momentMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
