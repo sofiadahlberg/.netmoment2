@@ -8,8 +8,8 @@ namespace MyApp.Namespace
 {
     public class StartController : Controller
     {
-        
-           
+
+
         // GET: StartController
         public ActionResult Index()
         {
@@ -23,7 +23,7 @@ namespace MyApp.Namespace
         {
             return View();
         }
-     
+
         [Route("/ViewBagTest")]
         public ActionResult ViewBagTest()
         {
@@ -36,9 +36,9 @@ namespace MyApp.Namespace
             return View();
         }
 
-        
 
-      
+
+
 
     }
 }

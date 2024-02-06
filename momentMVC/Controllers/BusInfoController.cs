@@ -1,7 +1,7 @@
 
 using Microsoft.AspNetCore.Mvc;
 using momentMVC.Models;
-using MyApp.Namespace; 
+using MyApp.Namespace;
 
 namespace MyApp.Namespace
 {
@@ -31,7 +31,7 @@ namespace MyApp.Namespace
                 TotalSeats = 30
             };
             //Skapa en tredje buss med information
-             BusInfo b3 = new BusInfo
+            BusInfo b3 = new BusInfo
             {
                 FreeSeats = 0,
                 TakenSeats = 4,
